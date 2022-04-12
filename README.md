@@ -1,4 +1,4 @@
-# Hello, I am Jackyfeng 👏🏻
+# Hello, I am RamSong 👏🏻
 
 ![](https://img.shields.io/badge/python-3.8-orange?style=for-the-badge&logo=python&logoColor=orange)
 ![](https://img.shields.io/badge/java-15-blue?style=for-the-badge&logo=java&logoColor=blue)
@@ -6,7 +6,7 @@
 
 **Preview**：From Shanghai, China 🏝, love coding 🐍. A student 🏫，love photographing beautiful things🌿 and a little fat🍔.
 
-**Blog**：[My Blog](https://jackyfzh.github.io)
+**Blog**：[My Blog](https://blog.ramsong.cn)
 
 **About me**
 
