@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/java-15-blue?style=for-the-badge&logo=java&logoColor=blue)
 ![](https://img.shields.io/badge/html-15-green?style=for-the-badge&logo=html&logoColor=green)
 
-**Preview**：From Henan, China 🏝, love coding 🐍. A student 🏫，love photographing beautiful things🌿 and a little fat🍔.
+**Preview**：From Henan, China 🏝, love coding 🐍. A student 🏫and love photographing beautiful things🌿.
 
 **Blog**：[My Blog](https://blog.ramsong.cn)
 
