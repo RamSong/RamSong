@@ -1,10 +1,10 @@
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+I am a boy who loves programming and tossing
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+- 💼 FrontEnd Engineer at [Profly](http://profly.work/)
 
 - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
 
