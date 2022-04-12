@@ -17,8 +17,8 @@
 #### Top Repositories
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/RamSong/DownloadCenter)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/RamSong/homework)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RamSong&repo=DownloadCenter)](https://github.com/RamSong/DownloadCenter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RamSong&repo=homework)](https://github.com/RamSong/homework)
 
 <br />
 <br />
