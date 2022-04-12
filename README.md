@@ -1,6 +1,12 @@
-<br />
+# Hello, I am Jackyfeng 👏🏻
 
-*I am a boy who loves programming and tossing*
+![](https://img.shields.io/badge/python-3.8-orange?style=for-the-badge&logo=python&logoColor=orange)
+![](https://img.shields.io/badge/java-15-blue?style=for-the-badge&logo=java&logoColor=blue)
+![](https://img.shields.io/badge/html-15-green?style=for-the-badge&logo=html&logoColor=green)
+
+**Preview**：From Shanghai, China 🏝, love coding 🐍. A student 🏫，love photographing beautiful things🌿 and a little fat🍔.
+
+**Blog**：[My Blog](https://jackyfzh.github.io)
 
 **About me**
 
@@ -19,13 +25,3 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RamSong&repo=DownloadCenter)](https://github.com/RamSong/DownloadCenter)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RamSong&repo=homework)](https://github.com/RamSong/homework)
-
-<br />
-<br />
-
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
