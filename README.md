@@ -6,11 +6,9 @@ I am a boy who loves programming and tossing
 
 - 💼 FrontEnd Engineer at [Profly](http://profly.work/)
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
+- ❤️ I love to explore. You can go with me.
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
-
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 💬 Ask me about anything [here](https://github.com/RamSong/RamSong/issues)
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
