@@ -4,24 +4,10 @@
 ![](https://img.shields.io/badge/java-15-blue?style=for-the-badge&logo=java&logoColor=blue)
 ![](https://img.shields.io/badge/html-15-green?style=for-the-badge&logo=html&logoColor=green)
 
-**Preview**：From Henan, China 🏝, love coding 🐍. A student 🏫and love photographing beautiful things🌿.
-
-**Blog**：[My Blog](https://blog.ramsong.cn)
+**Preview**：From  China 🏝, love coding 🐍. A student 🏫and love photographing beautiful things🌿.
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Profly](http://profly.work/)
-
 - ❤️ I love to explore. You can go with me.
-
 - 💬 Ask me about anything [here](https://github.com/RamSong/RamSong/issues)
 
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RamSong&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="RamSong's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamSong&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-#### Top Repositories
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RamSong&repo=before-blog-file)](https://github.com/RamSong/before-blog-file)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RamSong&repo=DownloadCenter)](https://github.com/RamSong/DownloadCenter)
