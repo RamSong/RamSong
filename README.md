@@ -10,4 +10,4 @@
 - ❤️ I love to explore. You can go with me.
 - 💬 Ask me about anything [here](https://github.com/RamSong/RamSong/issues)
 
-<a href="https://icp.gov.moe/?keyword=20240006" target="_blank">萌ICP备20245555号</a>
+<a href="https://icp.gov.moe/?keyword=20245210" target="_blank">萌ICP备20245210号</a>
