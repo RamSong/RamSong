@@ -54,7 +54,7 @@
 **Other**
 <p>
 <img alt="android" src="https://img.shields.io/badge/Android-14-00E886?style=flat-square&logo=Android" />
-<img alt="xiaomi" src="https://img.shields.io/badge/Xiaomi-Redmi%20K60%20PRO-FF6700?style=flat-square&logo=Xiaomi" />
+<img alt="xiaomi" src="https://img.shields.io/badge/Xiaomi-Redmi%20K50-FF6700?style=flat-square&logo=Xiaomi" />
 <img alt="cloudflare" src="https://img.shields.io/badge/CloudFlare-F38020?style=flat-square&logo=CloudFlare&logoColor=ffffff" />
 
 </p>
