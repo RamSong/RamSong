@@ -1,14 +1,8 @@
 # Hello, I am RamSong 👏🏻
 
->恭喜你发现了一个新的废物
+>欢迎访问我的博客：<a href="https://ram.wang" target="_blank">RamSong Blog</a>
 
->欢迎访问我的自留地哦：<a href="https://ram.wang" target="_blank">RamSong Blog</a>
-
->这里会存一些在初学知识下写的简单无用的代码
-
->我非常的菜，已经菜的不能再菜了
-
->所以我摆烂了
+>这里会存一些折腾笔记，日常思考，心得感悟。
 
 ----
 
@@ -53,17 +47,12 @@
 
 **Other**
 <p>
-<img alt="android" src="https://img.shields.io/badge/Android-14-00E886?style=flat-square&logo=Android" />
-<img alt="xiaomi" src="https://img.shields.io/badge/Xiaomi-Redmi%20K50-FF6700?style=flat-square&logo=Xiaomi" />
+<img alt="android" src="https://img.shields.io/badge/Android-15-00E886?style=flat-square&logo=Android" />
+<img alt="xiaomi" src="https://img.shields.io/badge/Xiaomi-Redmi%20Note12TPro-FF6700?style=flat-square&logo=Xiaomi" />
 <img alt="cloudflare" src="https://img.shields.io/badge/CloudFlare-F38020?style=flat-square&logo=CloudFlare&logoColor=ffffff" />
 
 </p>
 
-**Preview**：From  China 🏝,A student 🏫， love coding 🐍.and photographing 🌿.
-
-**About me**
-
-- ❤️ I love to explore. You can go with me.
-- 💬 Ask me about anything [here](https://github.com/RamSong/RamSong/issues)
+💬 Ask me about anything [here](https://github.com/RamSong/RamSong/issues)
 
 <a href="https://icp.gov.moe/?keyword=20245555" target="_blank">萌ICP备20245555号</a>
